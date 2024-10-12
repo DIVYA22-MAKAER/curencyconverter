@@ -1,2 +1,4 @@
 # curencyconverter
-this is my first git repository . author -Divya Jawalkar
+This is my first git repository.
+<br>
+Author - Divya Jawalkar
